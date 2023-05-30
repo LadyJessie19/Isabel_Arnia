@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.logoNetflix{
+    position: static;
+    max-width: 200px;
+    margin: 1rem;
+}
+
+.backgroundImage{
+    position: fixed;
+    background: url(https://jornaldoisirmaos.com.br/images/grandes/netflix-testara-cobranca-de-taxa-para-quem-compartilha-conta-1647537120.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.maskBackgroundImage{
+    background-image: (103.24deg, rgba(0, 8, 29, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%)
+}
