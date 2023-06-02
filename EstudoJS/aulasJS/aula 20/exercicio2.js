@@ -32,6 +32,6 @@ let n9 = io.readInt()
 io.write("Digite o 10° número: ")
 let n10 = io.readInt()
 
-const media = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10) / 2
+const media = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10) / 10
 
 io.write("A média aritmética entre os números é: "+ media)

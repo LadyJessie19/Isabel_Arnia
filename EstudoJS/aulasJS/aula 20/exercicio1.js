@@ -12,7 +12,8 @@ const frase = io.read()
 
 let contador = 0
 
+io.write("------")
 while (contador < number) {
-  contador++
   io.write(frase)
+  contador++
 }
